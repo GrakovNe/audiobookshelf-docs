@@ -39,7 +39,7 @@ export const communityApps = [
   },
   {
     name: 'Lissen',
-    platforms: ['Android', 'AAOS'],
+    platforms: ['Android'],
     href: 'https://github.com/GrakovNe/lissen-android',
     tags: ['Audiobooks', 'Podcasts'],
     description:
