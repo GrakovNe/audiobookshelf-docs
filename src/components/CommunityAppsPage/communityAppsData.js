@@ -42,7 +42,6 @@ export const communityApps = [
     platforms: ['Android', 'AAOS'],
     href: 'https://github.com/GrakovNe/lissen-android',
     tags: ['Audiobooks', 'Podcasts'],
-    oidcRedirectUri: 'lissen://oauth',
     description:
       'A clean, minimalistic Audiobookshelf client for Android and Android Auto. Stream or download audiobooks and podcasts, with cloud sync of progress across devices.',
   },
